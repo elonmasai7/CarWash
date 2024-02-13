@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 /**
  *
- * @author Mohammad.Jaha
+ * @author Elon masai
  */
 import javax.swing.JOptionPane;
 
