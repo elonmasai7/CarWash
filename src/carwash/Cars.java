@@ -2,7 +2,7 @@ package carwash;
 
 /**
  *
- * @author Mohammad.Jaha
+ * @author Elon masai
  */
 public class Cars extends Queue {
     
